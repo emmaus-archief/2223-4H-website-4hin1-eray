@@ -9,7 +9,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #ffffff;    /* achtergrondkleur lichtgrijs */
+  background-color: #000000;    /* achtergrondkleur lichtgrijs */
   color: #0033ff;               /* tekstkleur donkergrijs */
 }  
 
@@ -52,7 +52,7 @@ p {
 }
 .kolomRechts {
   float:left;
-  width: 450px;
+  width: 400px;
 }
 .kolomStop {
   clear:both;                   /* stop met floaten */
