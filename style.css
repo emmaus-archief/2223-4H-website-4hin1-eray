@@ -10,13 +10,22 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #0033ff;               /* tekstkleur donkergrijs */
+  color: #0433ff;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
   overflow: hidden;               /* zorgt dat DIV en andere block elementen de hoogte krijgt van wat erin zit (anders is het soms 0) */
   box-sizing: border-box;         /* zorg dat border meetelt bij de width en height van boxen */
-  margin: 0px;                    /* standaard marge 0 */
+  margin: 0px; 
+                                   /* standaard marge 0 */
+  div {
+  width: 300px;
+  border: 15px solid #0433ff;
+  padding: 50px;
+  margin: 20px;
+}
+ 
+
 }
 
 /* Indeling voor alle pagina's */
@@ -40,15 +49,43 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 
 p {
   margin: 10px 0px;
-  text-align: justify;            /* tekst links en rechts uitvullen */
+  text-align: justify; 
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 5px;
+  text-allign: justify;
+
+  main {
+    margin: 10px 0px;
+    text-align: justify;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 5px;
+    
+  } 
+    
+  
+  
+                                /* tekst links en rechts uitvullen */
 }
 
-/* Indeling voor hoofd pagina */
+.rij {
+  border: solid 2px #000000;
+}
+.rij2 {
+  border: solid 2px #000000;
+}
+.rij3 {
+  border: solid 2px #000000;
+}
+
+                                /* Indeling voor hoofd pagina */
 
 .kolomLinks {
   float:left;
   width:250px;
-  padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
+  padding-right:15px;  
+   margin-top: 18px;        /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
   float:left;
@@ -61,7 +98,7 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: #0032fa;
+      color: #0433ff;
 }
 
 .smalltext {
@@ -70,7 +107,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #001eff;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -101,9 +138,9 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #1100ff;
+    background-color: #0433ff;
 }
 
 nav li a.active {
-    background-color: #0033ff;
+    background-color: #00f900;
 }
