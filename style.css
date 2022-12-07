@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #ff2600;               /* tekstkleur donkergrijs */
+  color: #fffb00;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -20,7 +20,7 @@ body * {                          /* geldt voor alles in body */
                                    /* standaard marge 0 */
   div {
   width: 300px;
-  border: 15px solid #ff2600;
+  border: 15px solid #fffb00;
   padding: 50px;
   margin: 20px;
 }
@@ -105,7 +105,7 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: #ff2600;
+      color: #fffb00;
 }
 
 .smalltext {
@@ -138,7 +138,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: #ff2600;
+    color: #fffb00;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -158,7 +158,7 @@ nav li a.active {
 }
 
 body {
-  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1875200776434896538/8CF704C0A2716DAE82A4A99609945271FFE371D9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false");
+  background-image: url("https://i.pinimg.com/originals/6c/63/06/6c63068e3cc45a97c7de2360d17bd383.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
