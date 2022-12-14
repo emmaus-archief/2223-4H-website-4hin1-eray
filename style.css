@@ -20,7 +20,7 @@ body * {                          /* geldt voor alles in body */
                                    /* standaard marge 0 */
   div {
   width: 300px;
-  border: 15px solid #fffb00;
+  border: 15px solid  #ff2600;
   padding: 50px;
   margin: 20px;
 }
@@ -70,13 +70,14 @@ p {
 }
 
 .rij {
-  border: solid 2px #000000;
+  border: solid 0px #000000;
+
 }
 .rij2 {
-  border: solid 2px #000000;
+  border: solid 0px #000000;
 }
 .rij3 {
-  border: solid 2px #000000;
+  border: solid 0px #000000;
 }
 
                                 /* Indeling voor hoofd pagina */
@@ -94,6 +95,7 @@ p {
   float:left;
   width: 400px;
 }
+
 
 
   
@@ -114,7 +116,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #ffffff;
+    color: #ff2600;
     text-decoration: none;
 }
 
@@ -155,15 +157,20 @@ nav li a.active {
   border: 10px solid transparent;
   padding: 15px;
   border-image: url ("") 30 round;
+  opacity: 100%;
 }
 
 body {
   background-image: url("https://i.pinimg.com/originals/6c/63/06/6c63068e3cc45a97c7de2360d17bd383.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
   background-position: center;
+  border:solid 2px black;
+  min-height:100%;
+  
 }
-
-https://steamlists.com/wallpaper-engine-beginers-guide-for-users/
-
-https://newevolutiondesigns.com/images/freebies/city-wallpaper-15.jpg"
+html{
+border:solid 2px black;
+  height: 100%;
+  
+}
