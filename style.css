@@ -80,6 +80,11 @@ p {
   border: solid 0px #000000;
 }
 
+{
+.border
+  border: solid 2px ;
+  
+}
                                 /* Indeling voor hoofd pagina */
 
 .kolomLinks {
