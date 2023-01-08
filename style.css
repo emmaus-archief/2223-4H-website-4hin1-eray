@@ -120,7 +120,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #ff2600;
+    color: #0011ff;
     text-decoration: none;
 }
 
@@ -182,11 +182,19 @@ border:solid 2px black;
 .kolommidden{
   
     float:right;
-  width:250px;
+  width:200px;
   padding-right:15px;  
   margin-top: 18px;
+  margin-left: 10px;
   border: solid 0px gray; 
 
+}
+
+ .plaatje{
+width: 250px;
+float: right;
+   margin-left: 10px;
+   
+ } 
 
   
-}
