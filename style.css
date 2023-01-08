@@ -197,4 +197,27 @@ float: right;
    
  } 
 
+  .plaatje200{
+
+    width: 300px;
+    margin-top: 20px;
+  }
+
+.kolomboven{
+  float: right;
+  width: 370px;
+  margin-top: 23px;
+}
+
+.plaatje300{
+  width: 300px;
+  float: left;
+
   
+}
+.kolom600{
+   float: right;
+  width: 370px;
+  border: solid 2px black;
+  
+}
