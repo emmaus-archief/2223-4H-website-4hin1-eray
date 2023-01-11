@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #fb00ff;               /* tekstkleur donkergrijs */
+  color: #0033ff;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -169,7 +169,7 @@ nav li a.active {
 }
 
 body {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/453/426/365/yamaha-yzf-r1-yellow-color-motorcycle-at-riverside-wallpaper-preview.jpg");
+  background-image: url("https://wallpapercave.com/wp/wp7609773.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
