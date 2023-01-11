@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #fffb00;               /* tekstkleur donkergrijs */
+  color: #ff2600;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -111,7 +111,7 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: #fffb00;
+      color: #ff2600;
 }
 
 .smalltext {
@@ -120,7 +120,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #0011ff;
+    color: #ff2600;
     text-decoration: none;
 }
 
@@ -144,7 +144,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: #fffb00;
+    color: #ff2600;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -165,12 +165,13 @@ nav li a.active {
 }
 
 body {
-  background-image: url("https://i.pinimg.com/originals/6c/63/06/6c63068e3cc45a97c7de2360d17bd383.jpg");
+  background-image: url("https://badasshelmetstore.com/wp-content/uploads/2020/08/wallpaperflare.com_wallpaper-5-10-scaled.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
   border:solid 2px black;
   min-height:100%;
+ 
   
 }
 html{
@@ -221,3 +222,4 @@ float: right;
   border: solid 2px black;
   
 }
+"https://i.pinimg.com/originals/6c/63/06/6c63068e3cc45a97c7de2360d17bd383.jpg"
