@@ -20,7 +20,7 @@ body * {                          /* geldt voor alles in body */
                                    /* standaard marge 0 */
   div {
   width: 300px;
-  border: 15px solid  #0433ff;
+  border: 15px solid  #24f312;
   padding: 50px;
   margin: 20px;
 }
@@ -124,7 +124,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #0433ff;
+    color: #05ff8a;
     text-decoration: none;
 }
 
@@ -148,7 +148,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: #0433ff;
+    color: #052fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -248,8 +248,33 @@ float: right;
 
 .kolomRechts{
   background-color: black;
+ 
+  
 }
 
 .tekst600{
   background-color: black;
+}
+
+.hoofdtekst1{
+  background-color: black;
+  
+}
+
+.hoofdtekst2{
+  background-color: black;
+}
+
+.hoofdtekst3{
+  background-color: black;
+}
+
+.tussenkopje1{
+  background-color: black;
+  background-image: url("");
+}
+
+.belangrijk{
+  background-color: black;
+  background-image: url("") ;
 }
