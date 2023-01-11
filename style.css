@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #0433ff;               /* tekstkleur donkergrijs */
+  color: #fb00ff;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -90,6 +90,7 @@ p {
   width:250px;
   padding-right:15px;  
   margin-top: 18px; 
+  
  
   {
   
@@ -98,6 +99,8 @@ p {
 .kolomRechts {
   float:left;
   width: 400px;
+ 
+  
 }
 
 
@@ -117,6 +120,7 @@ h1, h2, h3 {
 .smalltext {
     text-align: center;
     font-size: 0.7em;
+  background-color: black;
 }
 
 a {
@@ -165,7 +169,7 @@ nav li a.active {
 }
 
 body {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/145/699/616/sci-fi-cyberpunk-futuristic-man-motorcycle-hd-wallpaper-preview.jpg");
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/453/426/365/yamaha-yzf-r1-yellow-color-motorcycle-at-riverside-wallpaper-preview.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
@@ -188,6 +192,7 @@ border:solid 2px black;
   margin-top: 18px;
   margin-left: 10px;
   border: solid 0px gray; 
+  
 
 }
 
@@ -208,6 +213,7 @@ float: right;
   float: right;
   width: 370px;
   margin-top: 23px;
+  background-color: black;
 }
 
 .plaatje300{
@@ -222,4 +228,28 @@ float: right;
   border: solid 2px black;
   
 }
-"https://i.pinimg.com/originals/6c/63/06/6c63068e3cc45a97c7de2360d17bd383.jpg"
+
+.tekst200{
+  background-color: black;
+  
+}
+
+.tekst300{
+  background-color: black;
+}
+
+.tekst400{
+  background-color: black;
+}
+
+.tekst500{
+  background-color: black;
+}
+
+.kolomRechts{
+  background-color: black;
+}
+
+.tekst600{
+  background-color: black;
+}
