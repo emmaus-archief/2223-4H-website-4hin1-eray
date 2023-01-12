@@ -114,7 +114,7 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: #0433ff;
+      color: #000000;
 }
 
 .smalltext {
@@ -138,7 +138,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #000000;
+    background-image: url("https://images3.alphacoders.com/276/276565.jpg");
     overflow: hidden;
 }
 
@@ -148,18 +148,19 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: #052fff;
+    color: #000000;
+    text-shadow: 2px 2px lime;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #7a7a7a;
+    background-color: #474747;
 }
 
 nav li a.active {
-    background-color: #919191ee;
+    background-color: #787878ee;
 }
 #borderimg{
   border: 10px solid transparent;
@@ -173,7 +174,7 @@ body {
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
-  border:solid 2px black;
+  border:solid 2px #000000;
   min-height:100%;
  
   
@@ -254,27 +255,44 @@ float: right;
 
 .tekst600{
   background-color: black;
+  
 }
 
 .hoofdtekst1{
   background-color: black;
+  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  background-size: 500px 500px;
+  text-shadow: 2px 2px #00ff11;
   
 }
 
 .hoofdtekst2{
   background-color: black;
+  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  background-size: 500px 500px;
+    text-shadow: 2px 2px #00ff1e;
 }
 
 .hoofdtekst3{
   background-color: black;
-}
-
-.tussenkopje1{
-  background-color: black;
-  background-image: url("");
+  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  background-size: 500px 500px;
+    text-shadow: 2px 2px #00ff11;
 }
 
 .belangrijk{
-  background-color: black;
-  background-image: url("") ;
+  color: blue;
+  text-shadow: 1px 1px lime;
+  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  box-sizing: 1px 1px;
 }
+
+.tussenkopje1{
+  color: blue;
+  text-shadow: 2px 2px lime;
+  
+}
+
+
+
+
