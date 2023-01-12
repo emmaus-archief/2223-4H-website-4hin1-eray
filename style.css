@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #0033ff;               /* tekstkleur donkergrijs */
+  color: #ffbb00;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -20,7 +20,7 @@ body * {                          /* geldt voor alles in body */
                                    /* standaard marge 0 */
   div {
   width: 300px;
-  border: 15px solid  #24f312;
+  border: 15px solid  #123ff3;
   padding: 50px;
   margin: 20px;
 }
@@ -124,7 +124,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #05ff8a;
+    color: #0544ff;
     text-decoration: none;
 }
 
@@ -138,7 +138,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png/v1/fill/w_1192,h_670,q_70,strp/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter_da4f4ln-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.M2m5L8YCKDpdABz6wnyMs754FBO6HzoDsVGwZx6eSxU");
     overflow: hidden;
 }
 
@@ -149,7 +149,7 @@ nav ul li {
 nav li a {
     display: block;
     color: #000000;
-    text-shadow: 2px 2px lime;
+    text-shadow: 2px 2px #ffbb00;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -170,7 +170,7 @@ nav li a.active {
 }
 
 body {
-  background-image: url("https://wallpapercave.com/wp/wp7609773.jpg");
+  background-image: url("https://www.hdwallpapers.in/thumbs/2022/yellow_black_bmw_s1000rr_motorcycle_4k_5k_hd_bike-t2.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
@@ -260,36 +260,36 @@ float: right;
 
 .hoofdtekst1{
   background-color: black;
-  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png/v1/fill/w_1192,h_670,q_70,strp/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter_da4f4ln-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.M2m5L8YCKDpdABz6wnyMs754FBO6HzoDsVGwZx6eSxU");
   background-size: 500px 500px;
-  text-shadow: 2px 2px #00ff11;
+  text-shadow: 2px 2px #ffbb00;
   
 }
 
 .hoofdtekst2{
   background-color: black;
-  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png/v1/fill/w_1192,h_670,q_70,strp/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter_da4f4ln-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.M2m5L8YCKDpdABz6wnyMs754FBO6HzoDsVGwZx6eSxU");
   background-size: 500px 500px;
-    text-shadow: 2px 2px #00ff1e;
+    text-shadow: 2px 2px #ffbb00;
 }
 
 .hoofdtekst3{
   background-color: black;
-  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png/v1/fill/w_1192,h_670,q_70,strp/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter_da4f4ln-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.M2m5L8YCKDpdABz6wnyMs754FBO6HzoDsVGwZx6eSxU");
   background-size: 500px 500px;
-    text-shadow: 2px 2px #00ff11;
+    text-shadow: 2px 2px #ffbb00;
 }
 
 .belangrijk{
-  color: blue;
-  text-shadow: 1px 1px lime;
-  background-image: url("https://images3.alphacoders.com/276/276565.jpg");
-  box-sizing: 1px 1px;
+  color: black;
+  text-shadow: 1px 1px #ffbb00;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png/v1/fill/w_1192,h_670,q_70,strp/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter_da4f4ln-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.M2m5L8YCKDpdABz6wnyMs754FBO6HzoDsVGwZx6eSxU");
+  background-size: 500px 500px;
 }
 
 .tussenkopje1{
-  color: blue;
-  text-shadow: 2px 2px lime;
+  color: black;
+  text-shadow: 2px 2px #ffbb00;
   
 }
 
