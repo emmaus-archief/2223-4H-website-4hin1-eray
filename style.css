@@ -91,6 +91,7 @@ p {
   padding-right:15px;  
   margin-top: 18px; 
   
+  
  
   {
   
@@ -170,7 +171,7 @@ nav li a.active {
 }
 
 body {
-  background-image: url("https://w0.peakpx.com/wallpaper/834/499/HD-wallpaper-bmw-bmw-s1000-bmw-s1000rr-motorcycle.jpg");
+  background-image: url("https://images.hdqwalls.com/wallpapers/biker-helmet-fire-4k-lq.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
@@ -205,13 +206,13 @@ float: right;
  } 
 
   .plaatje200{
-
+    float: right;
     width: 300px;
-    margin-top: 20px;
+    margin-top: 25px;
   }
 
 .kolomboven{
-  float: right;
+  float: left;
   width: 370px;
   margin-top: 23px;
   background-color: black;
@@ -219,7 +220,7 @@ float: right;
 
 .plaatje300{
   width: 300px;
-  float: left;
+  float: right;
 
   
 }
@@ -292,6 +293,16 @@ float: right;
   text-shadow: 2px 2px #ffbb00;
   
 }
+
+.tekst900{
+  float: right;
+  width: 300px;
+  background-color: black;
+}
+
+
+
+
 
 
 
